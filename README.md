@@ -56,6 +56,10 @@ The system follows a hierarchical structure and event-driven programming model.
 
 ## 👩‍💻 Contribution
 
+This project was developed collaboratively as part of a University project.
+
+My contributions included:
+
 - Implementing dice roll logic
 - Managing player movement and position updates
 - Handling snake and ladder position lists
